@@ -9,3 +9,6 @@ This repository contains a Spotify exploration and track recommendation tool to 
 - `extract_playlist_data.ipynb`: extracts playlist data (track list, Spotify API audio features, calculated rich audio features) for a users playlist. Exports playlist data to `/output/playlists` as .csv files.
 -`utils.py`: contains various utility functions used throughout other files.
 - `config.py`: contains space to enter Spotify API credentials. Insert your local API credentials here for rest of repository to be able to access Spotify API for data collection.
+
+Due to file upload size limits, I cannot directly upload the .csv files refrenced above. Here is a link to a google drive folder from where they can be downloaded:
+https://drive.google.com/drive/folders/1QIBsoJ4wbtgYiuP2Yrzh1qSdOkCLcnNG?usp=sharing
