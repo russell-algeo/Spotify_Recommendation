@@ -47,7 +47,7 @@ In `spotify_exploration_and_recommendation.ipynb`, example recommendations for t
 - [Recommendations for It Swims Here](https://open.spotify.com/playlist/0qlqvoGqAQyXKxwBlR39Aa?si=b2fa8b57c0b84b82)
 
 # Supplemental Code
--`utils.py`: contains various utility functions used throughout the data extraction process.
+- `utils.py`: contains various utility functions used throughout the data extraction process.
 - `config.py`: contains space to enter personal Spotify API credentials to be able to execute Spotify API queries used in data collection.
 
 Due to file upload size limits, I cannot directly upload the .csv files resulting form data collection of my saved tracks, listening history, and playlists referenced above. They can be found in a [google drive folder](https://drive.google.com/drive/folders/1QIBsoJ4wbtgYiuP2Yrzh1qSdOkCLcnNG?usp=sharing) where they can be downloaded.
